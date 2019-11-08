@@ -308,6 +308,7 @@ body {
 		justify-content:space-between;		
 		text-transform: uppercase;
 		font-family: 'Josefin Sans', sans-serif;
+		width: 250px;
 	}
 	&__subtitle {
 		margin: 0;
@@ -320,12 +321,13 @@ body {
 		display: flex;
 		justify-content:space-between;		
 		font-family: 'Josefin Sans', sans-serif;
+		width: 250px;
 	}
 }
 .sprite_block {
 	display: flex;
 	justify-content:space-between;
-	min-width:180px;
+	min-width:240px;
 	margin-top: 30px;
 }
 .svg_icon {
